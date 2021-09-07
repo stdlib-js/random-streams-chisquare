@@ -543,6 +543,23 @@ $ random-chisquare 1.0 -n 10 --seed 1234
 
 <!-- /.cli -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/random/base/chisquare`][@stdlib/random/base/chisquare]: Chi-square distributed pseudorandom numbers.
+-   [`@stdlib/random/iter/chisquare`][@stdlib/random/iter/chisquare]: create an iterator for generating pseudorandom numbers drawn from a chi-square distribution.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -607,6 +624,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [chi-square]: https://en.wikipedia.org/wiki/Chi-squared_distribution
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
+
+<!-- <related-links> -->
+
+[@stdlib/random/base/chisquare]: https://github.com/stdlib-js/random-base-chisquare
+
+[@stdlib/random/iter/chisquare]: https://github.com/stdlib-js/random-iter-chisquare
+
+<!-- </related-links> -->
 
 </section>
 
