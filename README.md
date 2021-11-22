@@ -20,7 +20,7 @@ limitations under the License.
 
 # Chi-square Random Numbers
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Create a [readable stream][readable-stream] for generating pseudorandom numbers drawn from a [chi-square][chi-square] distribution.
 
@@ -551,8 +551,8 @@ $ random-chisquare 1.0 -n 10 --seed 1234
 
 ## See Also
 
--   [`@stdlib/random/base/chisquare`][@stdlib/random/base/chisquare]: Chi-square distributed pseudorandom numbers.
--   [`@stdlib/random/iter/chisquare`][@stdlib/random/iter/chisquare]: create an iterator for generating pseudorandom numbers drawn from a chi-square distribution.
+-   <span class="package-name">[`@stdlib/random/base/chisquare`][@stdlib/random/base/chisquare]</span><span class="delimiter">: </span><span class="description">Chi-square distributed pseudorandom numbers.</span>
+-   <span class="package-name">[`@stdlib/random/iter/chisquare`][@stdlib/random/iter/chisquare]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from a chi-square distribution.</span>
 
 </section>
 
@@ -603,8 +603,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-streams-chisquare/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/random-streams-chisquare?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/random-streams-chisquare.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/random-streams-chisquare/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
